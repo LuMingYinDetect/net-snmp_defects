@@ -1,5 +1,5 @@
 Affected Version:
-net-snmp 5.9 75f2aedd88ff0d42a99bd2e29aed749012334bad
+net-snmp 5.9.4 75f2aedd88ff0d42a99bd2e29aed749012334bad
 
 Vulnerability Description:
 The vulnerability is a memory leak bug located at line 320 of the file /net-snmp/apps/snmpvacm.c. This vulnerability could potentially be exploited maliciously to cause resource exhaustion and denial of service attacks.
